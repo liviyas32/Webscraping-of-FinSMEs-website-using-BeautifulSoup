@@ -21,6 +21,6 @@ Jupyter Notebook, Excel, Google Colab
 
 ## Notes
 - Finsmes is a financial news website that focuses on providing information about investments, startups, venture capital, and various financial trends.
-- Extracted data is uploaded here in the form of excel.
+
 
 Happy Coding!
